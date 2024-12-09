@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7_pagxsys#$8xe9s_ldb2_!z76vh0zue!ca#0jp0wo5wc0*wu8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
